@@ -1,0 +1,101 @@
+[
+  {
+    "sentence": "他吃___个饭就去上班了。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "了",
+    "explanation": "“了”表示动作完成，吃完饭后才去上班。",
+    "translation": "He went to work after having a meal."
+  },
+  {
+    "sentence": "我去___中国三次了。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "过",
+    "explanation": "“过”表示经历，用于表达去过某地的经验。",
+    "translation": "I have been to China three times."
+  },
+  {
+    "sentence": "他吃___饭就去上班了。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "了",
+    "explanation": "“了”表示动作完成，吃完饭后才去上班。",
+    "translation": "He went to work after having a meal."
+  },
+  {
+    "sentence": "他们正聊___天呢，别打扰。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "着",
+    "explanation": "“着”表示正在进行的状态或情景持续。",
+    "translation": "They are chatting right now. Don’t disturb them."
+  },
+  {
+    "sentence": "我见___他两次，每次都很匆忙。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "过",
+    "explanation": "“过”表示经历或经验，有‘曾经’的意思。",
+    "translation": "I have seen him twice, both times in a hurry."
+  },
+  {
+    "sentence": "孩子笑___跑向妈妈。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "着",
+    "explanation": "“笑着跑”表示边笑边跑，强调动作状态同时进行。",
+    "translation": "The child ran to his mother with a smile."
+  },
+  {
+    "sentence": "他换___衣服就出门了。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "了",
+    "explanation": "“了”表示动作完成，换完衣服就出门。",
+    "translation": "He went out after changing clothes."
+  },
+  {
+    "sentence": "我没去___那个地方，不太了解。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "过",
+    "explanation": "“没……过”用于否定经验。",
+    "translation": "I haven’t been to that place, so I don’t know much about it."
+  },
+  {
+    "sentence": "大家都听___他说话，教室里很安静。",
+    "options": [
+      "了",
+      "着",
+      "过"
+    ],
+    "answer": "着",
+    "explanation": "“听着”表示状态持续，正在倾听中。",
+    "translation": "Everyone was listening to him, and the classroom was very quiet."
+  }
+]
